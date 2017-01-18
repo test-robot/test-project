@@ -1,7 +1,5 @@
 AAA
 BBB
-CCC
-DDD
-EEE
+222
 FFF
 GGG
